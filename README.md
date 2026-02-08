@@ -46,5 +46,5 @@ Everything here is context-driven and open to critique.
 - To document trade-offs and design reasoning
 - To reuse and evolve patterns over time
 
-Writing things down helps me think better — this repo is part of that process.
+Writing things down helps me think better, this repo is part of that process.
 
